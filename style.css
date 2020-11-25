@@ -5,8 +5,8 @@
     font-weight: 300;
     src: local('HK Grotesk Light'),
          local('HKGrotesk-Light'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Light.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Light.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Light.woff') format('woff');
 }
 
 /* Regular */
@@ -16,8 +16,8 @@
     font-weight: 400;
     src: local('HK Grotesk Regular'),
          local('HKGrotesk-Regular'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Regular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Regular.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Regular.woff') format('woff');
 }
 
 /* Medium */
@@ -27,8 +27,8 @@
     font-weight: 500;
     src: local('HK Grotesk Medium'),
          local('HKGrotesk-Medium'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Medium.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Medium.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Medium.woff') format('woff');
 }
 
 /* SemiBold */
@@ -38,8 +38,8 @@
     font-weight: 600;
     src: local('HK Grotesk SemiBold'),
          local('HKGrotesk-SemiBold'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-SemiBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-SemiBold.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-SemiBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-SemiBold.woff') format('woff');
 }
 
 /* Bold */
@@ -49,8 +49,8 @@
     font-weight: 700;
     src: local('HK Grotesk Bold'),
          local('HKGrotesk-Bold'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Bold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Bold.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Bold.woff') format('woff');
 }
 
 /* ExtraBold */
@@ -60,8 +60,8 @@
     font-weight: 800;
     src: local('HK Grotesk ExtraBold'),
          local('HKGrotesk-ExtraBold'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-ExtraBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-ExtraBold.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-ExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-ExtraBold.woff') format('woff');
 }
 
 /* Black */
@@ -71,8 +71,8 @@
     font-weight: 900;
     src: local('HK Grotesk Black'),
          local('HKGrotesk-Black'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Black.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Black.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Black.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Black.woff') format('woff');
 }
 
 /* Light Italic */
@@ -82,8 +82,8 @@
     font-weight: 300;
     src: local('HK Grotesk Light Italic'),
          local('HKGrotesk-LightItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-LightItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-LightItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-LightItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-LightItalic.woff') format('woff');
 }
 
 /* Italic */
@@ -93,8 +93,8 @@
     font-weight: 400;
     src: local('HK Grotesk Italic'),
          local('HKGrotesk-Italic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-Italic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-Italic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-Italic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-Italic.woff') format('woff');
 }
 
 /* Medium Italic */
@@ -104,8 +104,8 @@
     font-weight: 500;
     src: local('HK Grotesk Medium Italic'),
          local('HKGrotesk-MediumItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-MediumItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-MediumItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-MediumItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-MediumItalic.woff') format('woff');
 }
 
 /* SemiBold Italic */
@@ -115,8 +115,8 @@
     font-weight: 600;
     src: local('HK Grotesk SemiBold Italic'),
          local('HKGrotesk-SemiBoldItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-SemiBoldItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-SemiBoldItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-SemiBoldItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-SemiBoldItalic.woff') format('woff');
 }
 
 /* Bold Italic */
@@ -126,8 +126,8 @@
     font-weight: 700;
     src: local('HK Grotesk Bold Italic'),
          local('HKGrotesk-BoldItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-BoldItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-BoldItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-BoldItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-BoldItalic.woff') format('woff');
 }
 
 /* ExtraBold Italic */
@@ -137,8 +137,8 @@
     font-weight: 800;
     src: local('HK Grotesk ExtraBold Italic'),
          local('HKGrotesk-ExtraBoldItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-ExtraBoldItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-ExtraBoldItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-ExtraBoldItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-ExtraBoldItalic.woff') format('woff');
 }
 
 /* Black Italic */
@@ -148,6 +148,6 @@
     font-weight: 900;
     src: local('HK Grotesk Black Italic'),
          local('HKGrotesk-BlackItalic'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff2/HKGrotesk-BlackItalic.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/jwrand16/hk-grotesk@master/woff/HKGrotesk-BlackItalic.woff') format('woff');
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff2/HKGrotesk-BlackItalic.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/james01/hk-grotesk@master/woff/HKGrotesk-BlackItalic.woff') format('woff');
 }
